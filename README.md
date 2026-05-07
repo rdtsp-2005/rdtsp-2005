@@ -144,7 +144,7 @@ status     : Open to collaborations ✅
 ---
 
 <!-- Connect -->
-### `> ping --contact`
+### `> Contact Me `
 
 <div align="center">
 
