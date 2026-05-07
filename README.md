@@ -12,11 +12,13 @@
 
 <!-- Profile Views & Socials -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=rdtsp-2005&label=Profile+Views&color=00fff5&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rdtsp-2005&label=Profile+Views&color=00fff5&style=flat-square&labelColor=0d1117" alt="profile views" />
   &nbsp;
   <a href="https://github.com/rdtsp-2005">
     <img src="https://img.shields.io/github/followers/rdtsp-2005?label=Followers&style=flat-square&color=00fff5&labelColor=0d1117" />
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20ML-00fff5?style=flat-square&labelColor=0d1117" />
 </p>
 
 </div>
@@ -24,21 +26,22 @@
 ---
 
 <!-- About Me -->
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
 ### `> WHO AM I`
 
 ```yaml
-name     : Thurunu Sahan 
-role     : Data Science Student & Developer
-university: NSBM Green University
-degree   : BSc (Hons) Data Science
-location : Sri Lanka 🇱🇰
-focus    :
+name       : Thurunu Sahan
+alias      : rdtsp-2005
+role       : Data Science Student & Developer
+university : NSBM Green University
+degree     : BSc (Hons) Data Science
+location   : Sri Lanka 🇱🇰
+focus      :
   - Machine Learning & AI
   - Data Analytics & Visualization
   - Full-Stack Web Development
-status   : Open to collaborations ✅
+status     : Open to collaborations ✅
 ```
 
 <br clear="right"/>
@@ -87,9 +90,16 @@ status   : Open to collaborations ✅
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rdtsp-2005&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00fff5&icon_color=00fff5&text_color=8892b0&ring_color=00fff5" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rdtsp-2005&theme=merko&hide_border=true&background=0d1117&ring=00fff5&fire=00fff5&currStreakLabel=00fff5&sideLabels=8892b0&dates=8892b0&currStreakNum=ffffff&sideNums=ffffff" />
-  <br/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=rdtsp-2005&theme=merko&hide_border=true&background=0d1117&ring=00fff5&fire=00fff5&currStreakLabel=00fff5&sideLabels=8892b0&dates=8892b0&currStreakNum=ffffff&sideNums=ffffff" />
+  <br/><br/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdtsp-2005&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00fff5&text_color=8892b0&langs_count=8" />
+</div>
+
+<br/>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=rdtsp-2005&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ---
@@ -119,10 +129,10 @@ status   : Open to collaborations ✅
 ### `> tail -f learning.log`
 
 ```
-[2026] ██████░░░░░░░░  Deep Learning & Neural Networks
-[2026] ██████████░░░░  Data Visualization & EDA
 [2026] ████████████░░  Machine Learning & Model Evaluation
+[2026] ██████████░░░░  Data Visualization & EDA
 [2025] ████████░░░░░░  Web Development (Full-Stack)
+[2026] ██████░░░░░░░░  Deep Learning & Neural Networks
 ```
 
 ---
@@ -146,9 +156,15 @@ status   : Open to collaborations ✅
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-rdtsp--2005-0d1117?style=for-the-badge&logo=github&logoColor=00fff5&labelColor=0d1117)](https://github.com/rdtsp-2005)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-0d1117?style=for-the-badge&logo=kaggle&logoColor=00fff5&labelColor=0d1117)](https://www.kaggle.com/thurunusahan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff5&labelColor=0d1117)](https://www.linkedin.com/in/thurunusahan)
+[![Kaggle](https://img.shields.io/badge/Kaggle-thurunusahan-0d1117?style=for-the-badge&logo=kaggle&logoColor=00fff5&labelColor=0d1117)](https://www.kaggle.com/thurunusahan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thurunu%20Sahan-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff5&labelColor=0d1117)](https://www.linkedin.com/in/thurunusahan)
 
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"Turning raw data into real insights, one model at a time."</i>
 </div>
 
 ---
@@ -156,8 +172,8 @@ status   : Open to collaborations ✅
 <div align="center">
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00fff5,100:0d1117&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00fff5,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=00fff5&fontAlignY=70" />
 
-<sub>Data Science Student @ NSBM Green University &nbsp;|&nbsp; Sri Lanka 🇱🇰</sub>
+<sub>Built with 💙 &nbsp;|&nbsp; Thurunu Sahan &nbsp;·&nbsp; Data Science Student @ NSBM Green University &nbsp;·&nbsp; Sri Lanka 🇱🇰</sub>
 
 </div>
