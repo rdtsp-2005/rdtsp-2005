@@ -97,15 +97,8 @@ status     : Open to collaborations ✅
 
 <br/>
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=rdtsp-2005&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
----
-
 <!-- Activity Graph -->
-### `> git log --graph`
+### `> Git Logo - Graph`
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rdtsp-2005&bg_color=0d1117&color=00fff5&line=00fff5&point=ffffff&area=true&area_color=00fff520&hide_border=true" />
@@ -114,7 +107,7 @@ status     : Open to collaborations ✅
 ---
 
 <!-- Current Projects -->
-### `> ls ./projects`
+### `> Projects`
 
 | 🔬 Project | 🛠 Stack | 📌 Status |
 |---|---|---|
@@ -126,7 +119,7 @@ status     : Open to collaborations ✅
 ---
 
 <!-- What I'm Learning -->
-### `> tail -f learning.log`
+ `> tail -f learning.log`
 
 ```
 [2026] ████████████░░  Machine Learning & Model Evaluation
@@ -174,6 +167,6 @@ status     : Open to collaborations ✅
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00fff5,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=00fff5&fontAlignY=70" />
 
-<sub>Built with 💙 &nbsp;|&nbsp; Thurunu Sahan &nbsp;·&nbsp; Data Science Student @ NSBM Green University &nbsp;·&nbsp; Sri Lanka 🇱🇰</sub>
+<sub>Thurunu Sahan &nbsp;·&nbsp; Data Science Student @ NSBM Green University &nbsp;·&nbsp; Sri Lanka 🇱🇰</sub>
 
 </div>
