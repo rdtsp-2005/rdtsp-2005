@@ -120,7 +120,7 @@ status     : Open to collaborations ✅
 | **Website Creation** | HTML · CSS · JavaScript | ✅ Completed |
 | **Online Gaming Behavior Analysis** | Python · Scikit-learn · Pandas | ✅ Completed |
 | **Player Engagement Classifier** | Random Forest · KNN · Matplotlib | ✅ Completed |
-| **Web Portfolio** | HTML · CSS · JavaScript | 🔄 In Progress |
+| **Web Application ** | Spring Boot · Java · Postman | 🔄 In Progress |
 
 ---
 
@@ -131,7 +131,7 @@ status     : Open to collaborations ✅
 
 | Skill | Progress | Level |
 |---|---|---|
-| 🤖 Machine Learning & Model Evaluation | ![90%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-90%25-00fff5?style=flat-square&labelColor=0d1117) | Advanced |
+| 🤖 Machine Learning & Model Evaluation | ![40%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-40%25-00fff5?style=flat-square&labelColor=0d1117) | Beginner |
 | 📊 Data Visualization & EDA | ![75%](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-75%25-00fff5?style=flat-square&labelColor=0d1117) | Intermediate |
 | 🌐 Web Development (Full-Stack) | ![60%](https://img.shields.io/badge/▓▓▓▓▓▓░░░░-60%25-00fff5?style=flat-square&labelColor=0d1117) | Intermediate |
 | 🧠 Deep Learning & Neural Networks | ![40%](https://img.shields.io/badge/▓▓▓▓░░░░░░-40%25-00b4d8?style=flat-square&labelColor=0d1117) | Beginner |
