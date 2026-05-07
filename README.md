@@ -28,7 +28,7 @@
 <!-- About Me -->
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-### `> WHO AM I`
+### `> whoami`
 
 ```yaml
 name       : Thurunu Sahan
@@ -49,7 +49,7 @@ status     : Open to collaborations ✅
 ---
 
 <!-- Tech Stack -->
-### `> Tech Stack`
+### `> tech --stack`
 
 <div align="center">
 
@@ -86,28 +86,34 @@ status     : Open to collaborations ✅
 ---
 
 <!-- GitHub Stats -->
-### `> git stats --user rdtsp-2005`
+### `> git status`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rdtsp-2005&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00fff5&icon_color=00fff5&text_color=8892b0&ring_color=00fff5" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rdtsp-2005&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00fff5&icon_color=00fff5&text_color=8892b0&ring_color=00fff5" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=rdtsp-2005&theme=merko&hide_border=true&background=0d1117&ring=00fff5&fire=00fff5&currStreakLabel=00fff5&sideLabels=8892b0&dates=8892b0&currStreakNum=ffffff&sideNums=ffffff" />
-  <br/><br/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdtsp-2005&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00fff5&text_color=8892b0&langs_count=8" />
 </div>
 
 <br/>
 
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdtsp-2005&layout=donut&theme=merko&hide_border=true&bg_color=0d1117&title_color=00fff5&text_color=8892b0&langs_count=6" />
+  &nbsp;&nbsp;
+  <img width="52%" src="https://github-profile-trophy.vercel.app/?username=rdtsp-2005&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=5" />
+</div>
+
+---
+
 <!-- Activity Graph -->
-### `> Git Logo - Graph`
+### `> git log --graph`
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rdtsp-2005&bg_color=0d1117&color=00fff5&line=00fff5&point=ffffff&area=true&area_color=00fff520&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rdtsp-2005&bg_color=0d1117&color=00fff5&line=00fff5&point=ffffff&area=true&area_color=00fff520&hide_border=true&custom_title=Thurunu%20Sahan's%20Contribution%20Graph" />
 </div>
 
 ---
 
 <!-- Current Projects -->
-### `> Projects`
+### `> ls ./projects`
 
 | 🔬 Project | 🛠 Stack | 📌 Status |
 |---|---|---|
@@ -121,17 +127,21 @@ status     : Open to collaborations ✅
 <!-- What I'm Learning -->
 ### `> tail -f learning.log`
 
-```
-[2026] ████████████░░  Machine Learning & Model Evaluation
-[2026] ██████████░░░░  Data Visualization & EDA
-[2025] ████████░░░░░░  Web Development (Full-Stack)
-[2026] ██████░░░░░░░░  Deep Learning & Neural Networks
-```
+<div align="center">
+
+| Skill | Progress | Level |
+|---|---|---|
+| 🤖 Machine Learning & Model Evaluation | ![90%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-90%25-00fff5?style=flat-square&labelColor=0d1117) | Advanced |
+| 📊 Data Visualization & EDA | ![75%](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-75%25-00fff5?style=flat-square&labelColor=0d1117) | Intermediate |
+| 🌐 Web Development (Full-Stack) | ![60%](https://img.shields.io/badge/▓▓▓▓▓▓░░░░-60%25-00fff5?style=flat-square&labelColor=0d1117) | Intermediate |
+| 🧠 Deep Learning & Neural Networks | ![40%](https://img.shields.io/badge/▓▓▓▓░░░░░░-40%25-00b4d8?style=flat-square&labelColor=0d1117) | Beginner |
+
+</div>
 
 ---
 
 <!-- Snake -->
-### `> snake --contributions`
+### `> git log --oneline --graph --all`
 
 <div align="center">
   <picture>
@@ -144,7 +154,7 @@ status     : Open to collaborations ✅
 ---
 
 <!-- Connect -->
-### `> Contact Me `
+### `> ping --contact`
 
 <div align="center">
 
