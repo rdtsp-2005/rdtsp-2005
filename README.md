@@ -1,22 +1,27 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00fff5,100:0d1117&height=200&section=header&text=rdtsp-2005&fontSize=60&fontColor=00fff5&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20%7C%20Web%20Dev&descAlignY=60&descSize=18&descColor=8892b0&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003d4f,60:00fff5,100:0d1117&height=220&section=header&text=Thurunu%20Sahan&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=%3C%20Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Web%20Developer%20%2F%3E&descAlignY=62&descSize=18&descColor=00fff5&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+with+Data+%F0%9F%93%8A+%7C+Thinking+in+Algorithms+%F0%9F%A4%96;BSc+Data+Science+%40+NSBM+Green+University+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1200&color=00FFF5&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=%24+python+predict_future.py+--mode%3Dlearning+%F0%9F%94%AD;BSc+Data+Science+%40+NSBM+Green+University+%F0%9F%8E%93+%7C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Socials -->
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
+<!-- Profile Views & Followers -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=rdtsp-2005&label=Profile+Views&color=00fff5&style=flat-square" alt="profile views" />
-  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=rdtsp-2005&label=👁️+Profile+Views&color=00fff5&style=flat-square&labelColor=0d1117" alt="profile views" />
+  &nbsp;&nbsp;
   <a href="https://github.com/rdtsp-2005">
-    <img src="https://img.shields.io/github/followers/rdtsp-2005?label=Followers&style=flat-square&color=00fff5&labelColor=0d1117" />
+    <img src="https://img.shields.io/github/followers/rdtsp-2005?label=⭐+Followers&style=flat-square&color=00fff5&labelColor=0d1117" />
   </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-00fff5?style=flat-square&labelColor=0d1117" />
 </p>
 
 </div>
@@ -24,12 +29,13 @@
 ---
 
 <!-- About Me -->
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+<img align="right" width="290" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
 ### `> WHO AM I`
 
 ```yaml
-name     : rdtsp-2005
+name     : Thurunu Sahan
+alias    : rdtsp-2005
 role     : Data Science Student & Developer
 university: NSBM Green University
 degree   : BSc (Hons) Data Science
@@ -108,7 +114,7 @@ status   : Open to collaborations ✅
 
 | 🔬 Project | 🛠 Stack | 📌 Status |
 |---|---|---|
-| **Website creation** | HTML · CSS · JavaScript | ✅ Completed  |
+| **Website Creation** | HTML · CSS · JavaScript | ✅ Completed |
 | **Online Gaming Behavior Analysis** | Python · Scikit-learn · Pandas | ✅ Completed |
 | **Player Engagement Classifier** | Random Forest · KNN · Matplotlib | ✅ Completed |
 | **Web Portfolio** | HTML · CSS · JavaScript | 🔄 In Progress |
@@ -146,8 +152,8 @@ status   : Open to collaborations ✅
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-rdtsp--2005-0d1117?style=for-the-badge&logo=github&logoColor=00fff5&labelColor=0d1117)](https://github.com/rdtsp-2005)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-0d1117?style=for-the-badge&logo=kaggle&logoColor=00fff5&labelColor=0d1117)](https://www.kaggle.com/thurunusahan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff5&labelColor=0d1117)](www.linkedin.com/in/thurunusahan)
+[![Kaggle](https://img.shields.io/badge/Kaggle-thurunusahan-0d1117?style=for-the-badge&logo=kaggle&logoColor=00fff5&labelColor=0d1117)](https://www.kaggle.com/thurunusahan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thurunu%20Sahan-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff5&labelColor=0d1117)](https://www.linkedin.com/in/thurunusahan)
 
 </div>
 
@@ -156,8 +162,8 @@ status   : Open to collaborations ✅
 <div align="center">
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00fff5,100:0d1117&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003d4f,60:00fff5,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00fff5&fontAlignY=65" />
 
-<sub>Built with 💙 &nbsp;|&nbsp; Data Science Student @ NSBM Green University &nbsp;|&nbsp; Sri Lanka 🇱🇰</sub>
+<sub>Built with 💙 &nbsp;|&nbsp; Thurunu Sahan &nbsp;·&nbsp; Data Science Student @ NSBM Green University &nbsp;·&nbsp; Sri Lanka 🇱🇰</sub>
 
 </div>
