@@ -46,7 +46,7 @@ status   : Open to collaborations ✅
 ---
 
 <!-- Tech Stack -->
-### `> tech --stack`
+### `> Tech Stack`
 
 <div align="center">
 
@@ -119,10 +119,10 @@ status   : Open to collaborations ✅
 ### `> tail -f learning.log`
 
 ```
-[2026] ████████████░░  Machine Learning & Model Evaluation
-[2026] ██████████░░░░  Data Visualization & EDA
-[2025] ████████░░░░░░  Web Development (Full-Stack)
 [2026] ██████░░░░░░░░  Deep Learning & Neural Networks
+[2026] ██████████░░░░  Data Visualization & EDA
+[2026] ████████████░░  Machine Learning & Model Evaluation
+[2025] ████████░░░░░░  Web Development (Full-Stack)
 ```
 
 ---
@@ -158,6 +158,6 @@ status   : Open to collaborations ✅
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00fff5,100:0d1117&height=100&section=footer" />
 
-<sub>Built with 💙 &nbsp;|&nbsp; Data Science Student @ NSBM Green University &nbsp;|&nbsp; Sri Lanka 🇱🇰</sub>
+<sub>Data Science Student @ NSBM Green University &nbsp;|&nbsp; Sri Lanka 🇱🇰</sub>
 
 </div>
