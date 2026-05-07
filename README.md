@@ -28,7 +28,7 @@
 <!-- About Me -->
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-### `> whoami`
+### `> Who Am I`
 
 ```yaml
 name       : Thurunu Sahan
@@ -49,7 +49,7 @@ status     : Open to collaborations ✅
 ---
 
 <!-- Tech Stack -->
-### `> tech --stack`
+### `> Tech Stack`
 
 <div align="center">
 
@@ -86,7 +86,7 @@ status     : Open to collaborations ✅
 ---
 
 <!-- GitHub Stats -->
-### `> git status`
+### `> Git status`
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rdtsp-2005&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00fff5&icon_color=00fff5&text_color=8892b0&ring_color=00fff5" />
@@ -104,7 +104,7 @@ status     : Open to collaborations ✅
 ---
 
 <!-- Activity Graph -->
-### `> git log --graph`
+### `> Git Log - Graph`
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rdtsp-2005&bg_color=0d1117&color=00fff5&line=00fff5&point=ffffff&area=true&area_color=00fff520&hide_border=true&custom_title=Thurunu%20Sahan's%20Contribution%20Graph" />
@@ -113,7 +113,7 @@ status     : Open to collaborations ✅
 ---
 
 <!-- Current Projects -->
-### `> ls ./projects`
+### `> Projects`
 
 | 🔬 Project | 🛠 Stack | 📌 Status |
 |---|---|---|
@@ -125,7 +125,7 @@ status     : Open to collaborations ✅
 ---
 
 <!-- What I'm Learning -->
-### `> tail -f learning.log`
+### `> Learning`
 
 <div align="center">
 
@@ -141,7 +141,7 @@ status     : Open to collaborations ✅
 ---
 
 <!-- Snake -->
-### `> git log --oneline --graph --all`
+### `> Git Log Online Graph`
 
 <div align="center">
   <picture>
@@ -154,7 +154,7 @@ status     : Open to collaborations ✅
 ---
 
 <!-- Connect -->
-### `> ping --contact`
+### `> Contact`
 
 <div align="center">
 
