@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00fff5,100:0d1117&height=200&section=header&text=rdtsp-2005&fontSize=60&fontColor=00fff5&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20%7C%20Web%20Dev&descAlignY=60&descSize=18&descColor=8892b0&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00fff5,100:0d1117&height=200&section=header&text=Thurunu Sahan&fontSize=60&fontColor=00fff5&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20%7C%20Web%20Dev&descAlignY=60&descSize=18&descColor=8892b0&animation=twinkling" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -29,7 +29,7 @@
 ### `> WHO AM I`
 
 ```yaml
-name     : rdtsp-2005
+name     : Thurunu Sahan 
 role     : Data Science Student & Developer
 university: NSBM Green University
 degree   : BSc (Hons) Data Science
