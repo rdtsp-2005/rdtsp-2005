@@ -26,7 +26,7 @@
 <!-- About Me -->
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
-### `> whoami`
+### `> WHO AM I`
 
 ```yaml
 name     : rdtsp-2005
@@ -108,6 +108,7 @@ status   : Open to collaborations ✅
 
 | 🔬 Project | 🛠 Stack | 📌 Status |
 |---|---|---|
+| **Website creation** | HTML · CSS · JavaScript | ✅ Completed  |
 | **Online Gaming Behavior Analysis** | Python · Scikit-learn · Pandas | ✅ Completed |
 | **Player Engagement Classifier** | Random Forest · KNN · Matplotlib | ✅ Completed |
 | **Web Portfolio** | HTML · CSS · JavaScript | 🔄 In Progress |
@@ -118,10 +119,10 @@ status   : Open to collaborations ✅
 ### `> tail -f learning.log`
 
 ```
-[2025] ████████████░░  Machine Learning & Model Evaluation
-[2025] ██████████░░░░  Data Visualization & EDA
+[2026] ████████████░░  Machine Learning & Model Evaluation
+[2026] ██████████░░░░  Data Visualization & EDA
 [2025] ████████░░░░░░  Web Development (Full-Stack)
-[2025] ██████░░░░░░░░  Deep Learning & Neural Networks
+[2026] ██████░░░░░░░░  Deep Learning & Neural Networks
 ```
 
 ---
@@ -145,8 +146,8 @@ status   : Open to collaborations ✅
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-rdtsp--2005-0d1117?style=for-the-badge&logo=github&logoColor=00fff5&labelColor=0d1117)](https://github.com/rdtsp-2005)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-0d1117?style=for-the-badge&logo=kaggle&logoColor=00fff5&labelColor=0d1117)](https://kaggle.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff5&labelColor=0d1117)](https://linkedin.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-0d1117?style=for-the-badge&logo=kaggle&logoColor=00fff5&labelColor=0d1117)](https://www.kaggle.com/thurunusahan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff5&labelColor=0d1117)](www.linkedin.com/in/thurunusahan)
 
 </div>
 
