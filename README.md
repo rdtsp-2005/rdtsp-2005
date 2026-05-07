@@ -119,7 +119,7 @@ status     : Open to collaborations ✅
 ---
 
 <!-- What I'm Learning -->
- `> tail -f learning.log`
+### `> tail -f learning.log`
 
 ```
 [2026] ████████████░░  Machine Learning & Model Evaluation
