@@ -120,7 +120,7 @@ status     : Open to collaborations ✅
 | **Website Creation** | HTML · CSS · JavaScript | ✅ Completed |
 | **Online Gaming Behavior Analysis** | Python · Scikit-learn · Pandas | ✅ Completed |
 | **Player Engagement Classifier** | Random Forest · KNN · Matplotlib | ✅ Completed |
-| **Web Application ** | Spring Boot · Java · Postman | 🔄 In Progress |
+| **Web Application** | Spring Boot · Java · Postman | 🔄 In Progress |
 
 ---
 
